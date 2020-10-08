@@ -1,0 +1,12 @@
+*.tar.gz
+ssd_mobilenet_v1_coco_2017_11_17*
+faster_rcnn*
+adf/soccer/
+adf/soccer/test*
+adf/soccer/train*
+training/*
+!training/faster_rcnn_inception_v2_coco_pipeline.config
+!training/labelmap.pbtxt
+output_inference_graph/*
+!output_inference_graph/pipeline.config
+

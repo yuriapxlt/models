@@ -39,3 +39,5 @@ RUN python -m pip install --user -U pip
 RUN python -m pip install --user .
 
 ENV TF_CPP_MIN_LOG_LEVEL 3
+
+RUN pip install jupyter opencv-python
