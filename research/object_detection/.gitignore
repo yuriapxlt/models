@@ -9,5 +9,3 @@ training/*
 !training/labelmap.pbtxt
 output_inference_graph/*
 !output_inference_graph/pipeline.config
-images/*
-!images/.gitkeep
